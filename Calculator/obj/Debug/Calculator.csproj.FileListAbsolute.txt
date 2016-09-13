@@ -1,6 +1,0 @@
-D:\Учеба\4 курс 1 сем\Тестирование\Calculator\Calculator\bin\Debug\Calculator.exe.config
-D:\Учеба\4 курс 1 сем\Тестирование\Calculator\Calculator\bin\Debug\Calculator.exe
-D:\Учеба\4 курс 1 сем\Тестирование\Calculator\Calculator\bin\Debug\Calculator.pdb
-D:\Учеба\4 курс 1 сем\Тестирование\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
-D:\Учеба\4 курс 1 сем\Тестирование\Calculator\Calculator\obj\Debug\Calculator.exe
-D:\Учеба\4 курс 1 сем\Тестирование\Calculator\Calculator\obj\Debug\Calculator.pdb
