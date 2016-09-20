@@ -1,0 +1,9 @@
+C:\Users\Student\Calculator\TestLab\bin\Debug\TestLab.dll
+C:\Users\Student\Calculator\TestLab\bin\Debug\TestLab.pdb
+C:\Users\Student\Calculator\TestLab\bin\Debug\Calculator.exe
+C:\Users\Student\Calculator\TestLab\bin\Debug\nunit.framework.dll
+C:\Users\Student\Calculator\TestLab\bin\Debug\Calculator.pdb
+C:\Users\Student\Calculator\TestLab\bin\Debug\nunit.framework.xml
+C:\Users\Student\Calculator\TestLab\obj\Debug\TestLab.csprojResolveAssemblyReference.cache
+C:\Users\Student\Calculator\TestLab\obj\Debug\TestLab.dll
+C:\Users\Student\Calculator\TestLab\obj\Debug\TestLab.pdb

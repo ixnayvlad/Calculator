@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Calculator
 {
-    class Operation
+    public class Operation
     {
         Operators operation = new Operators();
         int a;
